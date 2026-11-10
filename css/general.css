@@ -205,13 +205,6 @@ body {
   color: #fdf2e9;
   align-self: end;
   padding: 1.2rem;
-
-  /* 
-   * Fix from Jonas', making it
-   * have a same height with other
-   * form controls.
-   */
-  font-size: 1.8rem;
 }
 
 .btn--form:hover {
